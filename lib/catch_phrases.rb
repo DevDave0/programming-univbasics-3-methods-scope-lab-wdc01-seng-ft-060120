@@ -13,7 +13,7 @@ def link
   puts take 
 end 
 
-def all_phrases(mario)
-  mario 
+def all_phrases(something)
+  something
   
 end 
