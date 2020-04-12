@@ -13,7 +13,7 @@ def link
   puts take 
 end 
 
-def all_phrases(something)
-  something
+def all_phrases(phrase)
+  phrase 
   
 end 
